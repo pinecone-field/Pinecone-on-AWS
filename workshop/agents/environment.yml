@@ -1,0 +1,6 @@
+name: cohere_agent_101
+dependencies:
+  - pip
+  - pip:
+    - cohere==5.15.*
+    - duckduckgo-search==8.0.*
