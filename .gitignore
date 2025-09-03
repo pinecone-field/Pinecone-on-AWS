@@ -1,2 +1,5 @@
 .DS_Store
 .venv
+workshop/agentic-ai-with-bedrock/data/agentic_ai_with_bedrock_dataset
+workshop/Pinecone-Cohere-NYC/data/pinecone_cohere_workshop_dataset
+workshop/RAG/data/pinecone_workshop_dataset
